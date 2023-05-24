@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 412ab34be3e75b2cf03feaae8bd88c71f30dbe83 root <root@bn-plus.server.ly> 1684918304 +0200	commit (initial): first commit
+412ab34be3e75b2cf03feaae8bd88c71f30dbe83 0000000000000000000000000000000000000000 root <root@bn-plus.server.ly> 1684918324 +0200	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 412ab34be3e75b2cf03feaae8bd88c71f30dbe83 root <root@bn-plus.server.ly> 1684918324 +0200	Branch: renamed refs/heads/master to refs/heads/main
+412ab34be3e75b2cf03feaae8bd88c71f30dbe83 8a261bee00f988a3d597b2ced6ef2cccf77af815 root <root@bn-plus.server.ly> 1684918549 +0200	commit: m
