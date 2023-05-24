@@ -1,0 +1,1 @@
+[29-Dec-2022 03:04:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/fusofts/bn-plus.ly/BNplus/vendor/fruitcake/laravel-cors/config/type.php:1) in /tmp/phpcmcBz3 on line 30
